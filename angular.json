@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "julioauthapp"
+    }
+  },
+  "defaultProject": "julioauthapp",
+  "cli": {
+    "analytics": "4c98fa90-bba6-40c7-beaf-d8710cac04c3"
+  }
 }
