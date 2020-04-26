@@ -31,13 +31,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 To run the sample follow these steps:
 
 1. Set the Allowed Callback URLs in the Application Settings to
-http://localhost:3000
+http://localhost:4200
 
 2. Set Allowed Web Origins in the Application Settings to
-http://localhost:3000
+http://localhost:4200
 
 3. Set Allowed Logout URLs in the Application Settings to
-http://localhost:3000
+http://localhost:4200
 
 4. Make sure Node.JS LTS is installed and execute the following commands in the sample's directory:
 npm install && npm start
